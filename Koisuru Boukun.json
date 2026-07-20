@@ -14,11 +14,19 @@
       }
     },
     "2": {
-      "title": "Step 9",
+      "title": "Step 8",
       "volume": "16",
       "last_updated": "1784539345",
       "groups": {
         "KudouUsagi": "/proxy/api/imgchest/chapter/wl7l658xo7x"
+      }
+    },
+    "3": {
+      "title": "Step 9",
+      "volume": "16",
+      "last_updated": "1784539567",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/qb4zl2vgl7j"
       }
     }
   }
