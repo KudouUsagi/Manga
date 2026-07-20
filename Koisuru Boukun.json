@@ -5,8 +5,64 @@
   "author": "Takanaga Hinako",
   "cover": "",
   "chapters": {
+    "78": {
+      "title": "Vol 15 Plan 1",
+      "volume": "15",
+      "last_updated": "1784540681",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/9rydw5kd4kz"
+      }
+    },
+    "79": {
+      "title": "Vol 15 Plan 2",
+      "volume": "15",
+      "last_updated": "1784540713",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/bp45x2xnx75"
+      }
+    },
+    "80": {
+      "title": "Vol 15 Plan 3",
+      "volume": "15",
+      "last_updated": "1784540774",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/qb4z9qk6v7j"
+      }
+    },
+    "81": {
+      "title": "Vol 15 Plan 4",
+      "volume": "15",
+      "last_updated": "1784540801",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/5xy2e3mv3yl"
+      }
+    },
+    "82": {
+      "title": "Vol 15 Plan 5",
+      "volume": "15",
+      "last_updated": "1784540829",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/bp45dmapxy5"
+      }
+    },
+    "83": {
+      "title": "Vol 15 Plan 6",
+      "volume": "15",
+      "last_updated": "1784540869",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/a846g9jpo7x"
+      }
+    },
+    "84": {
+      "title": "Vol 16 Plan 1",
+      "volume": "15",
+      "last_updated": "1784541001",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/vj4j962n3y8"
+      }
+    },
     "91": {
-      "title": "Step 8",
+      "title": "Vol 16 Plan 8",
       "volume": "16",
       "last_updated": "1784539345",
       "groups": {
@@ -14,7 +70,7 @@
       }
     },
     "92": {
-      "title": "Step 9",
+      "title": "Vol 16 Plan 9",
       "volume": "16",
       "last_updated": "1784539567",
       "groups": {
@@ -29,64 +85,8 @@
         "KudouUsagi": "/proxy/api/imgchest/chapter/pg73aol93yr"
       }
     },
-    "78": {
-      "title": "78",
-      "volume": "15",
-      "last_updated": "1784540681",
-      "groups": {
-        "KudouUsagi": "/proxy/api/imgchest/chapter/9rydw5kd4kz"
-      }
-    },
-    "79": {
-      "title": "79",
-      "volume": "15",
-      "last_updated": "1784540713",
-      "groups": {
-        "KudouUsagi": "/proxy/api/imgchest/chapter/bp45x2xnx75"
-      }
-    },
-    "80": {
-      "title": "80",
-      "volume": "15",
-      "last_updated": "1784540774",
-      "groups": {
-        "KudouUsagi": "/proxy/api/imgchest/chapter/qb4z9qk6v7j"
-      }
-    },
-    "81": {
-      "title": "81",
-      "volume": "15",
-      "last_updated": "1784540801",
-      "groups": {
-        "KudouUsagi": "/proxy/api/imgchest/chapter/5xy2e3mv3yl"
-      }
-    },
-    "82": {
-      "title": "82",
-      "volume": "15",
-      "last_updated": "1784540829",
-      "groups": {
-        "KudouUsagi": "/proxy/api/imgchest/chapter/bp45dmapxy5"
-      }
-    },
-    "83": {
-      "title": "83",
-      "volume": "15",
-      "last_updated": "1784540869",
-      "groups": {
-        "KudouUsagi": "/proxy/api/imgchest/chapter/a846g9jpo7x"
-      }
-    },
-    "84": {
-      "title": "84",
-      "volume": "15",
-      "last_updated": "1784541001",
-      "groups": {
-        "KudouUsagi": "/proxy/api/imgchest/chapter/vj4j962n3y8"
-      }
-    },
     "83.5": {
-      "title": "83.5",
+      "title": "Vol 15 Extras",
       "volume": "15",
       "last_updated": "1784540958",
       "groups": {
