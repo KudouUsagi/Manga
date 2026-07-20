@@ -1,65 +1,17 @@
 {
   "title": "Koisuru Boukun",
-  "description": "",
-  "artist": "",
-  "author": "",
+  "description": "<manga description>",
+  "artist": "<manga artist>",
+  "author": "<manga author>",
   "cover": "https://imgur.com/iwuUgRL",
   "chapters": {
-    "1": {
-      "title": "1",
-      "volume": "",
-      "last_updated": "1784536289",
+    "<chapter number>": {
+      "title": "Chapter 1",
+      "volume": "1",
       "groups": {
-        "": [
-          "https://i.imgur.com/iwuUgRL.png",
-          "​https://i.imgur.com/tSwVY4a.png",
-          "​https://i.imgur.com/QqVS4Vh.png",
-          "​https://i.imgur.com/oMqVWKL.png",
-          "​https://i.imgur.com/4R2TP2h.png",
-          "​https://i.imgur.com/Z29C9Ps.png",
-          "​https://i.imgur.com/jAlRfDf.png",
-          "​https://i.imgur.com/OxlUMnO.png",
-          "​https://i.imgur.com/6dKUCSL.png",
-          "​https://i.imgur.com/yGtcQ9z.png",
-          "​https://i.imgur.com/nL2LaMI.png",
-          "​https://i.imgur.com/zeb3alw.png",
-          "​https://i.imgur.com/Eg56K9x.png",
-          "​https://i.imgur.com/pMv8GXx.png",
-          "​https://i.imgur.com/hDGjITp.png",
-          "​",
-          "15: \"https://i.imgur.com/NZANYjk.png\"",
-          "​",
-          "16: \"https://i.imgur.com/SjGXSID.png\"",
-          "​",
-          "17: \"https://i.imgur.com/47jB2ci.png\"",
-          "​",
-          "18: \"https://i.imgur.com/2GcnERt.png\"",
-          "​",
-          "19: \"https://i.imgur.com/Vx7bK58.png\"",
-          "​",
-          "20: \"https://i.imgur.com/UY4O3gq.png\"",
-          "​",
-          "21: \"https://i.imgur.com/wFKw42u.png\"",
-          "​",
-          "22: \"https://i.imgur.com/ozdxr8w.png\"",
-          "​",
-          "23: \"https://i.imgur.com/TEJGvUZ.png\"",
-          "​",
-          "24: \"https://i.imgur.com/qbTyNgN.png\"",
-          "​",
-          "25: \"https://i.imgur.com/zSacxn9.png\"",
-          "​",
-          "26: \"https://i.imgur.com/91HIHyC.png\"",
-          "​",
-          "27: \"https://i.imgur.com/rvioYFw.png\"",
-          "​",
-          "28: \"https://i.imgur.com/YVcJu4R.png\"",
-          "​",
-          "29: \"https://i.imgur.com/9CFueZX.png\"",
-          "​",
-          "30: \"https://i.imgur.com/9QyddK8.png\""
-        ]
-      }
-    }
+        "KudouUsagi": "/proxy/api/imgur/chapter/4zvO0R4/"
+      },
+      "last_updated": "1616368746"
+    },
   }
 }
