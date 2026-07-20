@@ -3,15 +3,15 @@
   "description": "<manga description>",
   "artist": "<manga artist>",
   "author": "<manga author>",
-  "cover": "https://imgur.com/iwuUgRL",
+  "cover": "",
   "chapters": {
     "1": {
-      "title": "Chapter 1",
-      "volume": "1",
+      "title": "Vol 16 Extras",
+      "volume": "16",
+      "last_updated": "1616368746",
       "groups": {
-        "KudouUsagi": "/proxy/api/imgur/chapter/4zvO0R4/"
-      },
-      "last_updated": "1616368746"
+        "KudouUsagi": "/proxy/api/imgchest/chapter/pg73aol93yr"
+      }
     }
   }
 }
