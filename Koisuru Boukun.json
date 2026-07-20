@@ -5,13 +5,13 @@
   "author": "<manga author>",
   "cover": "https://imgur.com/iwuUgRL",
   "chapters": {
-    "<chapter number>": {
+    "1": {
       "title": "Chapter 1",
       "volume": "1",
       "groups": {
         "KudouUsagi": "/proxy/api/imgur/chapter/4zvO0R4/"
       },
       "last_updated": "1616368746"
-    },
+    }
   }
 }
