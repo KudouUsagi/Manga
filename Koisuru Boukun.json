@@ -197,6 +197,22 @@
         "Unknown": "/proxy/api/imgchest/chapter/5xy256pw9yl"
       }
     },
+    "25": {
+      "title": "25: Our Failures part 1",
+      "volume": "5",
+      "last_updated": "1784675493",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/6eyrko2xl7p"
+      }
+    },
+    "26": {
+      "title": "26: Our Failures Part 2",
+      "volume": "5",
+      "last_updated": "1784675736",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/o24a9bg3eyl"
+      }
+    },
     "78": {
       "title": "Vol 15 Plan 1",
       "volume": "15",
@@ -411,14 +427,6 @@
       "last_updated": "1784675415",
       "groups": {
         "Unknown": "/proxy/api/imgchest/chapter/m9yxpov264q"
-      }
-    },
-    "25": {
-      "title": "25: Our Failures",
-      "volume": "5",
-      "last_updated": "1784675493",
-      "groups": {
-        "Unknown": "/proxy/api/imgchest/chapter/6eyrko2xl7p"
       }
     }
   }
