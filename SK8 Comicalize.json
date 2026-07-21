@@ -34,9 +34,31 @@
       "volume": "",
       "last_updated": "1784605270",
       "groups": {
-        "KudouUsagi": [
-          ""
-        ]
+        "KudouUsagi": "/proxy/api/imgchest/chapter/ne7b9z2ovy5"
+      }
+    },
+    "5": {
+      "title": "5",
+      "volume": "",
+      "last_updated": "1784607742",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/n87wp5e2b4x"
+      }
+    },
+    "6": {
+      "title": "6",
+      "volume": "",
+      "last_updated": "1784607824",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/a846nblzvyx"
+      }
+    },
+    "7": {
+      "title": "7",
+      "volume": "",
+      "last_updated": "1784607922",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/ljyqp38bk72"
       }
     }
   }
