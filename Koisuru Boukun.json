@@ -332,6 +332,38 @@
       "groups": {
         "KudouUsagi": "/proxy/api/imgchest/chapter/qb4z2vzz54j"
       }
+    },
+    "20.1": {
+      "title": "20.1",
+      "volume": "4",
+      "last_updated": "1784672418",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/wl7lpbxzxyx"
+      }
+    },
+    "20.2": {
+      "title": "20.2",
+      "volume": "4",
+      "last_updated": "1784672465",
+      "groups": {
+        "Unknown": "/proxy/api/imgchest/chapter/md7opogwlyp"
+      }
+    },
+    "20.3": {
+      "title": "Gush 4th Anniversary: Morinaga's point card",
+      "volume": "4",
+      "last_updated": "1784672524",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/5xy256p88yl"
+      }
+    },
+    "20.4": {
+      "title": "Gush 5th Anniversary: Angel-Kun's Imaginary Plans Round 2",
+      "volume": "4",
+      "last_updated": "1784672573",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/vj4jpbdme48"
+      }
     }
   }
 }
