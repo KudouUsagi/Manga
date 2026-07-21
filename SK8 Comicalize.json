@@ -1,0 +1,43 @@
+{
+  "title": "SK8 Comicalize",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1784605112",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/md7opregryp"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1784605181",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/md7oprelryp"
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "",
+      "last_updated": "1784605192",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/qe4g962rjyj"
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "",
+      "last_updated": "1784605270",
+      "groups": {
+        "KudouUsagi": [
+          ""
+        ]
+      }
+    }
+  }
+}
