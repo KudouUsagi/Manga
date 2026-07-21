@@ -61,6 +61,30 @@
         "KudouUsagi": "/proxy/api/imgchest/chapter/ljyqp396e72"
       }
     },
+    "8": {
+      "title": "Volume 2 Chapter 3",
+      "volume": "2",
+      "last_updated": "1784602685",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/9249j8be27n"
+      }
+    },
+    "9": {
+      "title": "Volume 2 Chapter 4",
+      "volume": "2",
+      "last_updated": "1784602766",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/9249j8be27n"
+      }
+    },
+    "10": {
+      "title": "Volume 2 Chapter 5",
+      "volume": "2",
+      "last_updated": "1784602936",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/9249j8be27n"
+      }
+    },
     "11": {
       "title": "Volume 3 Chapter 1",
       "volume": "3",
@@ -251,6 +275,14 @@
       "last_updated": "1784594935",
       "groups": {
         "KudouUsagi": "/proxy/api/imgchest/chapter/lqye25dk3yd"
+      }
+    },
+    "10.5": {
+      "title": "Volume 2 Extra: Do your best! Angel-kun",
+      "volume": "2",
+      "last_updated": "1784602960",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/9249j8be27n"
       }
     }
   }
