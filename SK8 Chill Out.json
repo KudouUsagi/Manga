@@ -1,0 +1,17 @@
+{
+  "title": "SK8 Chill Out",
+  "description": "",
+  "artist": "Toriyasu",
+  "author": "Hiroko Utsumi",
+  "cover": "https://cdn.imgchest.com/files/6fc0565f5dd1.png",
+  "chapters": {
+    "1": {
+      "title": "Full Volume",
+      "volume": "1",
+      "last_updated": "1784610236",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/ne7b9z5xjy5"
+      }
+    }
+  }
+}
