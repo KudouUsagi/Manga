@@ -604,6 +604,30 @@
       "groups": {
         "KudouUsagi": "/proxy/api/imgchest/chapter/o24a58l537l"
       }
+    },
+    "92.6": {
+      "title": "Volume 16 Store extras pt 1",
+      "volume": "16",
+      "last_updated": "1790980093",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/5xy29k3m84l"
+      }
+    },
+    "92.7": {
+      "title": "Volume 16 Store Extras pt 2",
+      "volume": "16",
+      "last_updated": "1790980137",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/qe4gggwno4j"
+      }
+    },
+    "92.8": {
+      "title": "Volume 16 Isekai Extra",
+      "volume": "16",
+      "last_updated": "1790980203",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/n87wagx5z4x"
+      }
     }
   }
 }
