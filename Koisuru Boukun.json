@@ -270,11 +270,19 @@
       }
     },
     "34": {
-      "title": "34",
+      "title": "Volume 7 Chapter 2",
       "volume": "7",
       "last_updated": "1784705717",
       "groups": {
-        "Unknown": "/proxy/api/imgchest/chapter/md7omqkjryp"
+        "KudouUsagi": "/proxy/api/imgchest/chapter/md7omqkjryp"
+      }
+    },
+    "35": {
+      "title": "Volume 7 Chapter 3",
+      "volume": "7",
+      "last_updated": "1790976714",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/92496pe384n"
       }
     },
     "78": {
