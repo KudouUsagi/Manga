@@ -365,6 +365,30 @@
         "KudouUsagi": "/proxy/api/imgchest/chapter/5xy2k8jwjyl"
       }
     },
+    "56": {
+      "title": "Volume 11 Chapter 1",
+      "volume": "11",
+      "last_updated": "1790988821",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgur/chapter/REKsU"
+      }
+    },
+    "63": {
+      "title": "Volume 12 Chapter 3",
+      "volume": "12",
+      "last_updated": "1790989045",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgur/chapter/G3Brkmp"
+      }
+    },
+    "72": {
+      "title": "Volume 14 Chapter 1",
+      "volume": "14",
+      "last_updated": "1790988177",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/lqyexgb5k4d"
+      }
+    },
     "78": {
       "title": "Vol 15 Plan 1",
       "volume": "15",
@@ -627,6 +651,14 @@
       "last_updated": "1790980203",
       "groups": {
         "KudouUsagi": "/proxy/api/imgchest/chapter/n87wagx5z4x"
+      }
+    },
+    "60.5": {
+      "title": "Volume 11 Extra",
+      "volume": "11",
+      "last_updated": "1790988875",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgur/chapter/ksb-11-extra-8cQLal8"
       }
     }
   }
