@@ -66,7 +66,7 @@
       "volume": "2",
       "last_updated": "1784602685",
       "groups": {
-        "KudouUsagi": "/proxy/api/imgchest/chapter/9249j8be27n"
+        "KudouUsagi": "/proxy/api/imgchest/chapter/9ryd98aod7k"
       }
     },
     "9": {
@@ -373,6 +373,14 @@
         "KudouUsagi": "/proxy/api/imgur/chapter/REKsU"
       }
     },
+    "62": {
+      "title": "Volume 12 Chapter 2",
+      "volume": "12",
+      "last_updated": "1790989784",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgur/chapter/fDNm0JM"
+      }
+    },
     "63": {
       "title": "Volume 12 Chapter 3",
       "volume": "12",
@@ -387,6 +395,14 @@
       "last_updated": "1790988177",
       "groups": {
         "KudouUsagi": "/proxy/api/imgchest/chapter/lqyexgb5k4d"
+      }
+    },
+    "73": {
+      "title": "Vol 14 ch 2",
+      "volume": "14",
+      "last_updated": "1790990156",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/92496pq6v4n"
       }
     },
     "78": {
