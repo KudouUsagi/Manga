@@ -429,6 +429,22 @@
         "KudouUsagi": "/proxy/api/imgchest/chapter/ne7ba6nvg45"
       }
     },
+    "54": {
+      "title": "Vol 10 Ch 4",
+      "volume": "10",
+      "last_updated": "1791168738",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/vj4jlmn9ey8"
+      }
+    },
+    "55": {
+      "title": "Vol 10 Ch 5",
+      "volume": "10",
+      "last_updated": "1791168840",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/wl7lqw5go4x"
+      }
+    },
     "56": {
       "title": "Volume 11 Chapter 1",
       "volume": "11",
@@ -747,6 +763,14 @@
       "last_updated": "1791166007",
       "groups": {
         "KudouUsagi": "/proxy/api/imgchest/chapter/dl7p3nn584o"
+      }
+    },
+    "55.5": {
+      "title": "Volume 10 Extra",
+      "volume": "10",
+      "last_updated": "1791168984",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/agyv5nj9z48"
       }
     }
   }
