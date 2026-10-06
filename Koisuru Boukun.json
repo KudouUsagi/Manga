@@ -836,6 +836,22 @@
       "groups": {
         "KudouUsagi": "/proxy/api/imgchest/chapter/n87wajz6z4x"
       }
+    },
+    "65.2": {
+      "title": "Vol 12 extras",
+      "volume": "12",
+      "last_updated": "1791327433",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/m9yx6582myq"
+      }
+    },
+    "65.3": {
+      "title": "vol 12 anime extra",
+      "volume": "12",
+      "last_updated": "1791327467",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/wl7lql2964x"
+      }
     }
   }
 }
