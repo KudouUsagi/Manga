@@ -517,6 +517,14 @@
         "KudouUsagi": "/proxy/api/imgchest/chapter/pg73e6znv4r"
       }
     },
+    "65": {
+      "title": "volume 12 ch 5",
+      "volume": "12",
+      "last_updated": "1791263202",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/vj4jlnrr2y8"
+      }
+    },
     "72": {
       "title": "Volume 14 Chapter 1",
       "volume": "14",
@@ -819,6 +827,14 @@
       "last_updated": "1791168984",
       "groups": {
         "KudouUsagi": "/proxy/api/imgchest/chapter/agyv5nj9z48"
+      }
+    },
+    "65.1": {
+      "title": "Vol 12 epilogue",
+      "volume": "12",
+      "last_updated": "1791263273",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/n87wajz6z4x"
       }
     }
   }
