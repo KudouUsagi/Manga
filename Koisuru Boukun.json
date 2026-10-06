@@ -900,6 +900,22 @@
       "groups": {
         "KudouUsagi": "/proxy/api/imgchest/chapter/wl7lql2964x"
       }
+    },
+    "71.1": {
+      "title": "Vol 13 extra",
+      "volume": "13",
+      "last_updated": "1791329995",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/9rydk3rpd4k"
+      }
+    },
+    "71.2": {
+      "title": "Vol 13 animate extra",
+      "volume": "13",
+      "last_updated": "1791330077",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/vj4jl58v5y8"
+      }
     }
   }
 }
