@@ -916,6 +916,22 @@
       "groups": {
         "KudouUsagi": "/proxy/api/imgchest/chapter/vj4jl58v5y8"
       }
+    },
+    "83.6": {
+      "title": "Vol 15 extra comicomi",
+      "volume": "15",
+      "last_updated": "1791333580",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/wl7lrbmaq7x"
+      }
+    },
+    "83.7": {
+      "title": "vol 15 extra comicomi",
+      "volume": "15",
+      "last_updated": "1791333649",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/6eyr8w3n67p"
+      }
     }
   }
 }
