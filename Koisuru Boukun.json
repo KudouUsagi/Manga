@@ -964,6 +964,22 @@
       "groups": {
         "KudouUsagi": "/proxy/api/imgchest/chapter/6eyr8w3n67p"
       }
+    },
+    "77.5": {
+      "title": "Vol 14 extra",
+      "volume": "14",
+      "last_updated": "1791335769",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/vj4jl5n3ey8"
+      }
+    },
+    "77.6": {
+      "title": "Vol 14 extra 2",
+      "volume": "14",
+      "last_updated": "1791335861",
+      "groups": {
+        "KudouUsagi": "/proxy/api/imgchest/chapter/5xy2kxnl8yl"
+      }
     }
   }
 }
